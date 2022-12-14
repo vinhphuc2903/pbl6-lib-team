@@ -1,0 +1,22 @@
+{
+  "name": "lib-pbl6",
+  "version": "1.0.5",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinhphuc2903/pbl6-lib-team.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Web Dev Simplified",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinhphuc2903/pbl6-lib-team/issues"
+  },
+  "homepage": "https://github.com/vinhphuc2903/pbl6-lib-team#readme"
+}
